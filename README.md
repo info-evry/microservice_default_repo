@@ -1,5 +1,9 @@
 # Asso market API
-
+## Pré-requis : 
+ - NodeJS 
+ - Docker
+ - Git
+ - 
 ### Etape 1 : Installation des dépendances 
 
 ```bash
