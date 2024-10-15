@@ -23,7 +23,7 @@ DATABASE_URL="postgresql://root:root@localhost:5432/my_database?schema=public
 ### Etape 4 : Création de votre Base de données avec prisma
 
 ```bash
-npx run migrate
+npm run migrate
 ```
 Un message disant que votre BDD et vos tables à été créer
 
